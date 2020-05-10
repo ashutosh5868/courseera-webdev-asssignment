@@ -1,7 +1,8 @@
-# hello-world
-just a new repository
+# courseera-webdev-assignment
+###HTML, CSS, JavaScript for Web Developers ####Johns Hopkins university #####courseera
 
-Hi Humans!
 
-ashutosh5868 here, i like javascript,nodejs very much (thats in which i am very much intrested!).
-and i want to learn as much as i can and want to know my potential. 
+This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera.
+
+
+Assignment links:
